@@ -1,0 +1,14 @@
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibunjyenerate.Form1.resources
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibunjyenerate.csproj.GenerateResource.cache
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibunjyenerate.csproj.CoreCompileInputs.cache
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\bin\Debug\kaibun.exe.config
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\bin\Debug\kaibun.exe.manifest
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\bin\Debug\kaibun.application
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\bin\Debug\kaibun.exe
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\bin\Debug\kaibun.pdb
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibun.Properties.Resources.resources
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibun.TrustInfo.xml
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibun.exe.manifest
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibun.application
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibun.exe
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibun.pdb
