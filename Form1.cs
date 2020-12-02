@@ -187,13 +187,13 @@ namespace kaibunjyenerate
 
         private void 背景画像変更ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void excelで保存ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveFileDialog dialog = new SaveFileDialog();
-            dialog.Filter = "Excelブック(*.xlsx)|*.xlsx";
+            dialog.Filter = "Excelブック(*.xls)|*.xls";
             dialog.Title = "保存";
             if(dialog.ShowDialog() == DialogResult.OK)
             {
