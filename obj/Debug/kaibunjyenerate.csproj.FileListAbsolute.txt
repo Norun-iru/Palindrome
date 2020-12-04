@@ -12,3 +12,4 @@ C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibun.exe
 C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibun.application
 C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibun.exe
 C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibun.pdb
+C:\Users\97iis\source\repos\kaibunjyenerate\kaibunjyenerate\obj\Debug\kaibunjyenerate.csprojAssemblyReference.cache

@@ -48,9 +48,7 @@
             this.閉じるToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.設定ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.色変更ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.背景画像変更ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.excelで保存ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -79,7 +77,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("源柔ゴシック Bold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label3.Location = new System.Drawing.Point(536, 182);
+            this.label3.Location = new System.Drawing.Point(485, 182);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(40, 21);
             this.label3.TabIndex = 2;
@@ -97,17 +95,17 @@
             // 
             // txtSrc
             // 
-            this.txtSrc.Location = new System.Drawing.Point(156, 182);
+            this.txtSrc.Location = new System.Drawing.Point(144, 182);
             this.txtSrc.Name = "txtSrc";
-            this.txtSrc.Size = new System.Drawing.Size(237, 25);
+            this.txtSrc.Size = new System.Drawing.Size(296, 25);
             this.txtSrc.TabIndex = 5;
             this.txtSrc.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // txtDest
             // 
-            this.txtDest.Location = new System.Drawing.Point(599, 182);
+            this.txtDest.Location = new System.Drawing.Point(540, 182);
             this.txtDest.Name = "txtDest";
-            this.txtDest.Size = new System.Drawing.Size(237, 25);
+            this.txtDest.Size = new System.Drawing.Size(296, 25);
             this.txtDest.TabIndex = 6;
             // 
             // label5
@@ -134,10 +132,10 @@
             // 
             // txtCheck
             // 
-            this.txtCheck.Location = new System.Drawing.Point(156, 371);
+            this.txtCheck.Location = new System.Drawing.Point(144, 371);
             this.txtCheck.Name = "txtCheck";
             this.txtCheck.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.txtCheck.Size = new System.Drawing.Size(680, 25);
+            this.txtCheck.Size = new System.Drawing.Size(692, 25);
             this.txtCheck.TabIndex = 10;
             this.txtCheck.TextChanged += new System.EventHandler(this.txtCheck_TextChanged);
             // 
@@ -171,9 +169,9 @@
             // 
             // txtOut
             // 
-            this.txtOut.Location = new System.Drawing.Point(156, 457);
+            this.txtOut.Location = new System.Drawing.Point(144, 457);
             this.txtOut.Name = "txtOut";
-            this.txtOut.Size = new System.Drawing.Size(680, 25);
+            this.txtOut.Size = new System.Drawing.Size(692, 25);
             this.txtOut.TabIndex = 14;
             // 
             // menuStrip1
@@ -191,7 +189,6 @@
             // 
             this.ファイルToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.名前を付けて保存ToolStripMenuItem,
-            this.excelで保存ToolStripMenuItem,
             this.閉じるToolStripMenuItem});
             this.ファイルToolStripMenuItem.Name = "ファイルToolStripMenuItem";
             this.ファイルToolStripMenuItem.Size = new System.Drawing.Size(53, 20);
@@ -222,8 +219,7 @@
             // 設定ToolStripMenuItem
             // 
             this.設定ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.色変更ToolStripMenuItem,
-            this.背景画像変更ToolStripMenuItem});
+            this.色変更ToolStripMenuItem});
             this.設定ToolStripMenuItem.Name = "設定ToolStripMenuItem";
             this.設定ToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
             this.設定ToolStripMenuItem.Text = "設定";
@@ -238,13 +234,6 @@
             this.色変更ToolStripMenuItem.Text = "色変更";
             this.色変更ToolStripMenuItem.Click += new System.EventHandler(this.色変更ToolStripMenuItem_Click);
             // 
-            // 背景画像変更ToolStripMenuItem
-            // 
-            this.背景画像変更ToolStripMenuItem.Name = "背景画像変更ToolStripMenuItem";
-            this.背景画像変更ToolStripMenuItem.Size = new System.Drawing.Size(194, 22);
-            this.背景画像変更ToolStripMenuItem.Text = "背景画像変更";
-            this.背景画像変更ToolStripMenuItem.Click += new System.EventHandler(this.背景画像変更ToolStripMenuItem_Click);
-            // 
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
@@ -255,13 +244,6 @@
             this.checkBox1.Text = "真ん中の文字をかぶらせる";
             this.checkBox1.UseVisualStyleBackColor = true;
             this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
-            // 
-            // excelで保存ToolStripMenuItem
-            // 
-            this.excelで保存ToolStripMenuItem.Name = "excelで保存ToolStripMenuItem";
-            this.excelで保存ToolStripMenuItem.Size = new System.Drawing.Size(244, 22);
-            this.excelで保存ToolStripMenuItem.Text = "Excelで保存";
-            this.excelで保存ToolStripMenuItem.Click += new System.EventHandler(this.excelで保存ToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -321,8 +303,6 @@
         private System.Windows.Forms.ToolStripMenuItem 名前を付けて保存ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 閉じるToolStripMenuItem;
         private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.ToolStripMenuItem 背景画像変更ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem excelで保存ToolStripMenuItem;
     }
 }
 
